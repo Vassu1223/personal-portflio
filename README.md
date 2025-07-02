@@ -1,4 +1,3 @@
-# personal-portflio
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -111,7 +110,7 @@
 
   <!-- ==== Header ==== -->
   <header>
-    <h1>Priyanshu Sharma</h1>
+    <h1>Varshikey Sharma</h1>
     <nav>
       <a href="#about">About</a>
       <a href="#projects">Projects</a>
@@ -123,13 +122,13 @@
   <div class="hero">
     <h2>Welcome to My Portfolio</h2>
     <p>I'm a Web Developer passionate about building beautiful websites.</p>
-    <img src="https://via.placeholder.com/150" alt="Profile Photo">
+   
   </div>
 
   <!-- ==== About Section ==== -->
   <section id="about">
     <h2>About Me</h2>
-    <p>Hello! I'm Priyanshu Sharma, a front-end web developer who loves clean code and modern design. I specialize in HTML, CSS, JavaScript, and responsive web design.</p>
+    <p>Hello! I'm Varshikey Sharma , a front-end web developer who loves clean code and modern design. I specialize in HTML, CSS, JavaScript, and responsive web design.</p>
   </section>
 
   <!-- ==== Projects Section ==== -->
